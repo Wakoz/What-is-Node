@@ -5,4 +5,4 @@ console.log(
     chalk.red("Marwane"),
     chalk.yellow("TomTom"),
     chalk.green("Roxanne")
-)
+);

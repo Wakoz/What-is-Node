@@ -5,6 +5,8 @@
   },
   "scripts": {
     "start": "node index.js"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.9.3"
   }
-  
 }
